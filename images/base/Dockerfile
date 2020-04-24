@@ -5,4 +5,5 @@ RUN apt update && \
   add-apt-repository -y ppa:ondrej/php && \
   apt install -y curl git php7.4-json php7.4-curl \
     php7.4-intl php7.4-mbstring php7.4-cli php7.4-zip \
-    php7.4-phar php7.4-xml php7.4-bcmath php-xdebug composer
+    php7.4-phar php7.4-xml php7.4-bcmath php7.4-sqlite3 \
+    php-xdebug composer
