@@ -1,6 +1,7 @@
 # PHP 7.4 Docker image for GitLab CI
 
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/marcandreappel/docker-php-gitlab-ci?logo=docker&logoColor=%23fff&style=for-the-badge)
+![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/marcandreappel/docker-php-gitlab-ci?logo=ubuntu&logoColor=%23fff&sort=semver&style=for-the-badge)
 
 An optimized docker image for PHP 7.4 projects (like Laravel) and useful on GitLab CI for debugging and unit testing.
 
