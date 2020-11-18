@@ -10,7 +10,7 @@ An optimized docker image for PHP 7.4 projects (like Laravel) and useful on GitL
 As the Docker image is automatically build on Docker Hub, you can use it right in your pipeline:
 
 ```yaml
-image: 'marcandreappel/docker-php-gitlab-ci:release-2'
+image: 'marcandreappel/docker-php-gitlab-ci:release-2' # or :latest
 
 cache:
   paths:
