@@ -2,10 +2,9 @@
 
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/marcandreappel/docker-php-gitlab-ci?logo=docker&logoColor=%23fff&style=for-the-badge)
 
-![Docker Image Size (tag)](https://img.shields.io/docker/image-size/marcandreappel/docker-php-gitlab-ci/release-3?logo=ubuntu&logoColor=%23fff&sort=semver&style=for-the-badge&label=image%20size%20php7.4)
-![Docker Image Size (tag)](https://img.shields.io/docker/image-size/marcandreappel/docker-php-gitlab-ci/release-8.0-3?logo=ubuntu&logoColor=%23fff&sort=semver&style=for-the-badge&label=image%20size%20php8.0)
+![Docker Image Size (tag)](https://img.shields.io/docker/image-size/marcandreappel/docker-php-gitlab-ci/latest?logo=ubuntu&logoColor=%23fff&sort=semver&style=for-the-badge&label=image%20size%20php7.4)
+![Docker Image Size (tag)](https://img.shields.io/docker/image-size/marcandreappel/docker-php-gitlab-ci/php8.0-latest?logo=ubuntu&logoColor=%23fff&sort=semver&style=for-the-badge&label=image%20size%20php8.0)
 
-https://img.shields.io/docker/image-size/marcandreappel/docker-php-gitlab-ci/release-3?label=image%20size%20PHP7.4
 
 An optimized docker image for PHP 7.4 & 8.0 projects (like Laravel) and useful on GitLab CI for debugging and unit testing.
 
