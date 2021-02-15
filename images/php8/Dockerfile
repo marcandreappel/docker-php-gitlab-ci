@@ -3,7 +3,7 @@ ENV DEBIAN_FRONTEND noninteractive
 RUN apt update && \
     apt install -y software-properties-common && \
     add-apt-repository -y ppa:ondrej/php && \
-    apt install -y curl git php8.0-json php8.0-curl php8.0-gd \
+    apt install -y curl git php8.0-curl php8.0-gd \
     php8.0-intl php8.0-mbstring php8.0-cli php8.0-zip php8.0-xsl \
     php8.0-phar php8.0-xml php8.0-bcmath php8.0-sqlite3 \
     php-xdebug
